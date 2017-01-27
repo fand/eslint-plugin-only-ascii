@@ -44,3 +44,8 @@ Then configure the rules you want to use under the rules section.
 ## Supported Rules
 
 * [only-ascii/only-ascii](./docs/rules/only-ascii.md): Detect non-ascii characters
+
+
+# Author
+@fand / [amagitakayosi](https://twitter.com/fand)
+Hatena Co., Ltd.
